@@ -4,32 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8753f9c-4184-478e-90e2-21a7ddf19388" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my_projects/Deep_L_with_python_pytorch/lesson_2_ann_torch.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_projects/Deep_L_with_python_pytorch/lesson_3_iris_torch.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_projects/Deep_L_with_python_pytorch/lesson_4_classmodel.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_breadthVsDepth.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_breadthVsDepth.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_classifyQwerties.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_classifyQwerties.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_codeChallengeQwerties.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_codeChallengeQwerties.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_codeChallengeSeq2class.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_codeChallengeSeq2class.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_codeChallenge_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_codeChallenge_regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_multioutput.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_multioutput.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_nHiddenUnits.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_nHiddenUnits.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/ANN/DUDL_ANN_regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/gradientDescent/DUDL_GradientDescent_2D.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/gradientDescent/DUDL_GradientDescent_2D.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/gradientDescent/DUDL_GradientDescent_codeChallenge_lr.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/001 DUDL-PythonCode/DUDL_PythonCode/gradientDescent/DUDL_GradientDescent_codeChallenge_lr.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_10_linear_algebra.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_11_probability_and_hists.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_12_number_theory.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_1_arithmetic.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_2_Sympy_Latex.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_3_algebra.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_4_Visualisation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_5_algebra_2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_6_Graphiks.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_7_Trigonometry.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_8_Art_from_trigonometry.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_projects/lesson_9_Calculus.ipynb" beforeDir="false" />
+    <list default="true" id="d8753f9c-4184-478e-90e2-21a7ddf19388" name="Changes" comment="nn  torch">
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_1/Beautiful Soup Documentation¶.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_1/lesson_1_web_scraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_2/lesson_2_web_scraping_links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_2/За что ценят писателя и как я отказалась от кучи денег¶.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_2/Зачем мне блог¶.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_2/Мой личный pandas. Как я переводила документацию¶.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_2/Русский писатель, английский язык¶.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_2/Трудно быть первым. Как я переводила Beautiful Soup¶.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_3/lesson_3_web_scraping_pages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -54,16 +40,99 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/devs/ML_projects&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/devs/ML_projects/my_projects/web_scraping/lesson_3",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\devs\ML_projects\my_projects\web_scraping\lesson_3" />
+      <recent name="C:\devs\ML_projects\my_projects\web_scraping" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\devs\ML_projects\my_projects\web_scraping\lesson_1" />
+      <recent name="C:\devs\ML_projects\my_projects\web_scraping\lesson_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lesson_3_web_scraping_pages">
+    <configuration name="lesson_1_web_scraping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_projects/web_scraping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\devs\ML_projects\my_projects\web_scraping\lesson_1\lesson_1_web_scraping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_2_web_scraping_links" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_projects/web_scraping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\devs\ML_projects\my_projects\web_scraping\lesson_2\lesson_2_web_scraping_links.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_3_web_scraping_pages" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_projects/web_scraping/lesson_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_projects/web_scraping/lesson_3/lesson_3_web_scraping_pages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lesson_3_web_scraping_pages" />
+        <item itemvalue="Python.lesson_2_web_scraping_links" />
+        <item itemvalue="Python.lesson_1_web_scraping" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -75,5 +144,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="nn  torch" />
+    <option name="LAST_COMMIT_MESSAGE" value="nn  torch" />
   </component>
 </project>
