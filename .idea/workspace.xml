@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8753f9c-4184-478e-90e2-21a7ddf19388" name="Changes" comment="parsing">
-      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/lesson_4_selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/matches.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/lesson_4_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/lesson_4_selenium.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
       <recent name="C:\devs\ML_projects\my_projects\web_scraping\lesson_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson_3_web_scraping_pages">
+  <component name="RunManager" selected="Python.lesson_4_selenium">
     <configuration name="lesson_1_web_scraping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ML_projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,8 +119,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson_4_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_projects/web_scraping/lesson_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/lesson_4_selenium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson_4_selenium" />
         <item itemvalue="Python.lesson_3_web_scraping_pages" />
         <item itemvalue="Python.lesson_2_web_scraping_links" />
         <item itemvalue="Python.lesson_1_web_scraping" />
