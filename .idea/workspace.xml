@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8753f9c-4184-478e-90e2-21a7ddf19388" name="Changes" comment="parsing">
-      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/matches.csv" afterDir="false" />
+    <list default="true" id="d8753f9c-4184-478e-90e2-21a7ddf19388" name="Changes" comment="selenium">
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_5_scrapy/quotes.toscrape.com/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_5_scrapy/quotes.toscrape.com/scrapy_quotes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_5_scrapy/quotes.toscrape.com/scrapy_quotes/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_5_scrapy/quotes.toscrape.com/scrapy_quotes/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_5_scrapy/quotes.toscrape.com/scrapy_quotes/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_5_scrapy/quotes.toscrape.com/scrapy_quotes/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_5_scrapy/quotes.toscrape.com/scrapy_quotes/spiders/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/lesson_4_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_projects/web_scraping/lesson_4/lesson_4_selenium.py" afterDir="false" />
     </list>
@@ -165,6 +171,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="nn  torch" />
     <MESSAGE value="parsing" />
-    <option name="LAST_COMMIT_MESSAGE" value="parsing" />
+    <MESSAGE value="selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium" />
   </component>
 </project>

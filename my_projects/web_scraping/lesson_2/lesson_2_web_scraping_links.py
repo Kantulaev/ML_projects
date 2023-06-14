@@ -4,7 +4,8 @@ from bs4 import BeautifulSoup
 root = 'http://geekwriter.ru/'
 result = requests.get(f'{root}blog.html#blog')
 content = result.text
-soup = BeautifulSoup(content, 'lxml')
+
+soup = BeautifulSoup(  content  , 'lxml')
 
 links = []
 main_div = soup.find('div', class_='toctree-wrapper compound')
